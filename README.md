@@ -1,1 +1,2 @@
-I am a software developer mostly working on the frontend of a software with ReactJS.
+- Creator of Multiple Clocks, a product for managing working hours
+- Contributor to HTMHell, a yearly advent calendar blog from Manuel Matuzovic
