@@ -7,3 +7,4 @@ An experienced front-end developer with a strong passion for digital accessibili
 
 ### :books: Articles
 - [The Form Attribute - Enhancing Form Layout Flexibility](https://www.htmhell.dev/adventcalendar/2023/3/)
+- [Misleading Icons: Icon-Only-Buttons and Their Impact on Screen Readers](https://www.htmhell.dev/adventcalendar/2024/27/)
